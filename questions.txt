@@ -1,0 +1,10 @@
+1. What is the difference between == and === operators? 
+2. What is the purpose of double exclamation (!!)?
+3. What is typeof operator?
+4. What is the difference between null and undefined?
+5. What is isNaN?
+6. What is NaN property?
+7. How do you add a key value pair in javascript?
+8. What is a conditional operator in javascript?
+9. What are default parameters?
+10. Which value is not equal to itself in javascript
