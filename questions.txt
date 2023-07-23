@@ -7,4 +7,24 @@
 7. How do you add a key value pair in javascript?
 8. What is a conditional operator in javascript?
 9. What are default parameters?
-10. Which value is not equal to itself in javascript
+10. Which value is not equal to itself in javascript?
+11. What are lambda or arrow functions? 
+12. How do you declare strict mode?
+13. Why do you need strict mode?
+14. What is undefined property?
+15. What is null value? 
+16. What are break and continue statements?
+17. What would be the result of '10' + 2 - 2?
+18. What are the function parameter rules?
+19. How do you empty an array?
+20. How do you create an infinite loop?
+21. What is JSON and its common operations?
+22. What is the purpose of the array slice method?
+23. What is the purpose of the array splice method?
+24. What is the difference between slice and splice?
+25. What is the purpose of the let keyword?
+26. What is the difference between let and var?
+27. What is the Temporal Dead Zone?
+28. What is Hoisting?
+29. What is scope in javascript?
+30. What is web storage?
