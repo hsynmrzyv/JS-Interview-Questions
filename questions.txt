@@ -9,11 +9,11 @@
 9. What are default parameters?
 10. Which value is not equal to itself in javascript?
 11. What are lambda or arrow functions? 
-12. How do you declare strict mode?
-13. Why do you need strict mode?
-14. What is undefined property?
-15. What is null value? 
-16. What are break and continue statements?
+12.What is a strict mode in javascript
+13. How do you declare strict mode?
+14. Why do you need strict mode?
+15. What is undefined property?
+16. What is null value? 
 17. What would be the result of '10' + 2 - 2?
 18. What are the function parameter rules?
 19. How do you empty an array?
@@ -28,3 +28,13 @@
 28. What is Hoisting?
 29. What is scope in javascript?
 30. What is web storage?
+31. How do you access web storage?
+32. What are the methods available on session storage?
+33. Why do you need web storage?
+34. What are break and continue statements?
+35. What is the purpose of delete operator?
+36. What is the difference between window and document?
+37. Is JavaScript a case-sensitive language?
+38. Is there any relation between Java and JavaScript?
+39. Who created javascript?
+40. What is the use of preventDefault method?
