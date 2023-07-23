@@ -9,12 +9,12 @@
 9. What are default parameters?
 10. Which value is not equal to itself in javascript?
 11. What are lambda or arrow functions? 
-12.What is a strict mode in javascript
+12. What is a strict mode in javascript?
 13. How do you declare strict mode?
 14. Why do you need strict mode?
 15. What is undefined property?
 16. What is null value? 
-17. What would be the result of '10' + 2 - 2?
+17. What would be the result of 1 + 2 + '3'?
 18. What are the function parameter rules?
 19. How do you empty an array?
 20. How do you create an infinite loop?

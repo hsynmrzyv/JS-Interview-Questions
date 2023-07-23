@@ -150,3 +150,103 @@ console.log(calculateArea()); // Output: 300
 const result = NaN == NaN;
 console.log(result); // Output: false
 
+////////////////////////////////////////////////////////////////////////////////////////////////
+
+// 11. What are lambda or arrow functions?
+
+// An arrow function is a shorter syntax for a function expression and does not have its own this, arguments, super, or new.target. These functions are best suited for non-method functions, and they cannot be used as constructors.
+
+////////////////////////////////////////////////////////////////////////////////////////////////
+
+// 12. What is a strict mode in javascript?
+
+// Strict Mode is a new feature in ECMAScript 5 that allows you to place a program, or a function, in a “strict” operating context. This way it prevents certain actions from being taken and throws more exceptions. The literal expression 'use strict' instructs the browser to use the javascript code in the Strict mode.
+
+////////////////////////////////////////////////////////////////////////////////////////////////
+
+// 13. How do you declare strict mode?
+
+// The strict mode is declared by adding "use strict"; to the beginning of a script or a function. If
+// declared at the beginning of a script, it has global scope.
+
+("use strict");
+
+x = 3.14; // This will cause an error because x is not declared
+
+// and if you declare inside a function, it has local scope
+
+x = 3.14; // This will not cause an error.
+
+myFunction();
+
+function myFunction() {
+  "use strict";
+  y = 3.14; // This will cause an error
+}
+
+////////////////////////////////////////////////////////////////////////////////////////////////
+
+// 14. Why do you need strict mode?
+
+// Strict mode is useful to write "secure" JavaScript by notifying "bad syntax" into real errors. For example, it eliminates accidentally creating a global variable by throwing an error and also throws an error for assignment to a non-writable property, a getter-only property, a non-existing property, a non-existing variable, or a non-existing object.
+
+////////////////////////////////////////////////////////////////////////////////////////////////
+
+// 15. What is undefined property?
+
+// The undefined property indicates that a variable has not been assigned a value, or not declared
+// at all. The type of undefined value is undefined too.
+
+let user; // Value is undefined, type is undefined
+
+console.log(typeof user); //undefined
+
+// Any variable can be emptied by setting the value to undefined.
+
+let userName = undefined;
+
+////////////////////////////////////////////////////////////////////////////////////////////////
+
+// 16. What is null value?
+
+// The value null represents the intentional absence of any object value. It is one of JavaScript's primitive values. The type of null value is object. You can empty the variable by setting the value to null.
+
+let id = null;
+console.log(typeof id); //object
+
+////////////////////////////////////////////////////////////////////////////////////////////////
+
+// 17. What would be the result of 1 + 2 +'3'?
+
+// The output is going to be 33 . Since 1 and 2 are numeric values, the result of the first two digits is going to be a numeric value 3 . The next digit is a string type value because of that the addition of numeric value 3 and string type value 3 is just going to be a concatenation value 33 .
+
+////////////////////////////////////////////////////////////////////////////////////////////////
+
+// 18. What are the function parameter rules?
+
+// 18.1 The function definitions do not specify data types for parameters.
+// 18.2 It does not perform type checking on the passed arguments.
+// 18.3 It does not check the number of received arguments.
+
+////////////////////////////////////////////////////////////////////////////////////////////////
+
+// 19. How do you empty an array?
+
+// You can empty an array quickly by setting the array length to zero.
+
+let cities = ["Singapore", "Delhi", "London"];
+cities.length = 0; // cities becomes []
+
+////////////////////////////////////////////////////////////////////////////////////////////////
+
+// 20. How do you create an infinite loop?
+
+while (true) {
+  // Your content goes here
+}
+
+////////////////////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////////////////
