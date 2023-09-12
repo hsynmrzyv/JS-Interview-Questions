@@ -38,3 +38,44 @@
 38. Is there any relation between Java and JavaScript?
 39. Who created javascript?
 40. What is the use of preventDefault method?
+41. What are modules?
+42. What is the benefit of using modules
+43. What is the use of stopPropagation method?
+44. What is the use of setTimeout?
+45. What is the use of setInterval?
+46. How do you check whether a string contains a substring?
+47. How do you redirect new page in javascript?
+48. How do you check if a key exists in an object?
+49. How do you loop through javascript object?
+50. How do you make first letter of the string in an uppercase?
+51. How do you display the current date in javascript?
+52. How do you compare two date objects?
+53. How do you check if a string starts with another string?
+54. How do you trim a string in javascript?
+55. What are template literals?
+56. What are the benefits of keeping declarations at the top?
+57. How do you generate random integers?
+58. Can you write a random integers function to print integers with in a range?
+59. Can I use reserved words as identifiers?
+60. What is a conditional operator in javascript?
+61. What happens if you do not use rest parameter as a last argument?
+62. What is a spread operator?
+63. What are primitive data types?
+64. How do you sort elements in an array?
+65. How do you reversing an array?
+66. How do you find min and max value in an array?
+67. What is destructuring assignment?
+68. What is the purpose of some method in arrays?
+69. How do you combine two or more arrays?
+70. How do you trim a string at the beginning or ending?
+71. How do you get unique values of an array?
+72. How do you rounding numbers to certain decimals?
+73. What is the difference between isNaN and Number.isNaN?
+74. What is a callback function?
+75. What is the difference between Call, Apply and Bind?
+76. What are the common operations of JSON?
+77. What is the purpose of find method in arrays?
+78. What is the purpose of flat method in arrays?
+79. What is the purpose of map method in arrays?
+80. What is the purpose of reduce method in arrays?
+
